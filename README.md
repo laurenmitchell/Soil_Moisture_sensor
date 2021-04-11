@@ -12,6 +12,4 @@ Below you can see the schematic
 Pictures of the setup
 
 ![Image_1](Flower.png)
-
-A video of the project:
-![](IMG_2877.MOV)
+![Image_2](wires.png)
