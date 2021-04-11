@@ -8,3 +8,10 @@ These numbers only really work for my specific plant. I did the same analysis on
 Below you can see the schematic
 
 ![Moisture_sensor_wiring](Soil_moisture_bb.png)
+
+Pictures of the setup:
+![Image 1](image1.png)
+![Image 2](image2.png)
+
+A video of the project:
+![](IMG_2877.MOV)
