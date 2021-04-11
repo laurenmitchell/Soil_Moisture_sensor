@@ -9,7 +9,8 @@ Below you can see the schematic
 
 ![Moisture_sensor_wiring](Soil_moisture_bb.png)
 
-Pictures of the setup:
+Pictures of the setup
+
 ![Image_1](image1.png)
 
 A video of the project:
