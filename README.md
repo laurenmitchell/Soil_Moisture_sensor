@@ -11,7 +11,7 @@ Below you can see the schematic
 
 Pictures of the setup
 
-![Image_1](IMG_2876.HEIC)
+![Image_1](flower.png)
 
 A video of the project:
 ![](IMG_2877.MOV)
