@@ -18,7 +18,7 @@
 
 int val = 0; //value for storing moisture value 
 int soilPin = A0;//Declare a variable for the soil moisture sensor 
-int soilPower = 7;//Variable for Soil moisture Power
+int soilPower = 6;//Variable for Soil moisture Power
 const int numReadings = 60;
 
 int readings[numReadings];      // the readings from the analog input
